@@ -10,7 +10,7 @@ user must sign in
     [Documentation]  This Test will open amazon and close it after 3 seconds
     [Tags]  Smoke
     open browser  https://www.amazon.com  ie
-    sleep   10s
+    sleep   7s
     close browser
 
 *** Keywords ***
